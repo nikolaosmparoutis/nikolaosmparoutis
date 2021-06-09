@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Machine Learning
+- 🔭 I’m currently working on ... Machine Learning 
+-    Teach Data Analytics and Python
 - 🌱 I’m currently learning ... AWS with Machine Learning
 - 👯 I’m looking to collaborate on ... Python 
 - 🤔 I’m looking for help with ...  PyTorch
