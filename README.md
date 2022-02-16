@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Machine Learning and Data Engineering
+- 🔭 I’m currently working on ... Machine Learning, MLOPS and Data Engineering
 - 🌱 I’m currently learning ... AWS, GCP, Advanced Python
 - 👯 I’m looking to collaborate on ... Python and ML 
 - 🤔 I’m looking for help with ... Devops
